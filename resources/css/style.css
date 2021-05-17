@@ -236,6 +236,7 @@ body {
 }
 
 .cmd2 .cmdText .ul {
+	list-style: none;
     margin-left: 15px;
 }
 
